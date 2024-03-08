@@ -1,5 +1,4 @@
-This includes a list of app UIs made for practise purpose
-
+This compilation features a series of app UIs crafted for practice using Flutter and Dart. These projects serve as practical exercises to enhance skills in Flutter development and explore the functionality of Dart programming. Each UI design within this collection represents a deliberate effort for learning and skill-building through hands-on experience with Flutter and Dart
 
 Screenshots: 
 <p>
