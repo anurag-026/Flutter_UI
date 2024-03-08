@@ -3,7 +3,7 @@ This includes a list of app UIs made for practise purpose
 
 Screenshots: 
 <p float="left">
-  <img src="https://github.com/anurag-026/Flutter_UI/assets/90410697/3b7b5c84-c8fe-45cd-9cca-20b9f6a35c3f" width="50%" />
+  <img src="https://github.com/anurag-026/Flutter_UI/assets/90410697/3b7b5c84-c8fe-45cd-9cca-20b9f6a35c3f" width="33%" /><br>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/anurag-026/Flutter_UI/assets/90410697/1f0cf275-297a-4e68-92a2-ef2cf6fda984" width="33%" /> 
   &nbsp; &nbsp; &nbsp; &nbsp;
